@@ -1,4 +1,4 @@
-# hello-vue.next
+# vue-skeleton-yoel
 
 ## Project setup
 ```
